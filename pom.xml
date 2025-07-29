@@ -58,11 +58,11 @@
     <distributionManagement>
         <repository>
             <id>webapps</id>
-            <url>http://13.126.249.96:8081/repository/webapps/</url>
+            <url>http://13.127.1.138:8081/repository/webapps/</url>
         </repository>
         <snapshotRepository>
             <id>webapps</id>
-            <url>http://13.126.249.96:8081/repository/webapps/</url>
+            <url>http://13.127.1.138:8081/repository/webapps/</url>
         </snapshotRepository>
     </distributionManagement>
 
