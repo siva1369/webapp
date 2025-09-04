@@ -57,12 +57,12 @@
 
     <distributionManagement>
         <repository>
-            <id>santa-ayyappa</id>
-            <url>http://43.205.215.135:8081/repository/santa-ayyappa/</url>
+            <id>webapps</id>
+            <url>http://3.109.202.100:8081/repository/webapps/</url>
         </repository>
         <snapshotRepository>
-            <id>santa-ayyappa</id>
-            <url>http://43.205.215.135:8081/repository/santa-ayyappa/</url>
+            <id>webapps</id>
+            <url>http://3.109.202.100:8081/repository/webapps/</url>
         </snapshotRepository>
     </distributionManagement>
 
